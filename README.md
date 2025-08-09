@@ -50,7 +50,7 @@
   Made with ❤️ by Steven
 </p>
 
-<img align="center" width="52%" src="[https://github-readme-stats.vercel.app/api?username=Hoyos-Dev&show_icons=true&title_color=1c1c1c&icon_color=79ff97&text_color=1c1c1c&bg_color=ffffff](https://github-readme-stats.vercel.app/api?username=stevenD18skz&show_icons=true&title_color=1c1c1c&icon_color=79ff97&text_color=1c1c1c&bg_color=ffffff)" alt="HoyosDev Github Stats">
+<img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=stevenD18skz&show_icons=true&title_color=1c1c1c&icon_color=79ff97&text_color=1c1c1c&bg_color=ffffff" alt="Steven Github Stats">
 
 
 
