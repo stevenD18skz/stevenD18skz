@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/ba/82/7e/ba827e6651c43d11f20388bccde9b43a.jpg" alt="Hi there!" width="800"/>
 </p>
 
-<h1 align="center">Hi there 👋 I'm Brayan Steven Narvaez Valdes!</h1>
+<h1 align="center">Hi there I'm Brayan Steven Narvaez Valdes!</h1>
 
 <p align="center">
   A passionate and creative Full Stack Web Developer dedicated to building beautiful, functional, and scalable applications.
@@ -11,17 +11,17 @@
 
 ---
 
-### 🚀 About Me
+### <About Me/>
 
-- 💻 I'm currently working on and developing my skills in **[mention 1-2 key technologies/areas you're focusing on right now, e.g., Next.js, Serverless, AI integration]**.
-- 💡 I specialize in building robust and dynamic web experiences, focusing on **[Front-end/Back-end/Database optimization/UI/UX]**.
-- 🌱 Always learning and exploring new horizons in the world of web development. My current interests include **[mention 1-2 new tech areas you're curious about, e.g., Web3, Machine Learning in web apps, Rust for backend]**.
-- 🤝 I'm open to collaborating on exciting projects that challenge me and allow me to learn and grow.
-- 💬 Ask me about **[mention a specific area you're good at or enjoy discussing, e.g., MERN stack, API design, performance optimization]**.
+- I'm currently working on and developing my skills in **[mention 1-2 key technologies/areas you're focusing on right now, e.g., Next.js, Serverless, AI integration]**.
+- I specialize in building robust and dynamic web experiences, focusing on **[Front-end/Back-end/Database optimization/UI/UX]**.
+- Always learning and exploring new horizons in the world of web development. My current interests include **[mention 1-2 new tech areas you're curious about, e.g., Web3, Machine Learning in web apps, Rust for backend]**.
+- I'm open to collaborating on exciting projects that challenge me and allow me to learn and grow.
+- Ask me about **[mention a specific area you're good at or enjoy discussing, e.g., MERN stack, API design, performance optimization]**.
 
 ---
 
-### 🛠️ Languages & Tools I Play With
+### Languages & Tools I Play With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,mysql,docker,aws,git,github,vscode,figma,jest,storybook,webpack,babel,redux" />
@@ -32,7 +32,7 @@
 ---
 
 
-### 🌐 Let's Connect!
+### Let's Connect!
 
 <p align="center">
   <a href="mailto:brayanss2018@gmail.com" target="_blank">
