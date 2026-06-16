@@ -11,7 +11,7 @@
 
 ---
 
-### <About Me/>
+### About Me
 
 - I'm currently working on and developing my skills in **[mention 1-2 key technologies/areas you're focusing on right now, e.g., Next.js, Serverless, AI integration]**.
 - I specialize in building robust and dynamic web experiences, focusing on **[Front-end/Back-end/Database optimization/UI/UX]**.
