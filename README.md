@@ -52,6 +52,30 @@
 
 <img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=stevenD18skz&show_icons=true&title_color=1c1c1c&icon_color=79ff97&text_color=1c1c1c&bg_color=ffffff" alt="Steven Github Stats">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stevenD18skz/stevenD18skz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stevenD18skz/stevenD18skz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/stevenD18skz/stevenD18skz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=stevenD18skz&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=stevenD18skz.stevenD18skz&left_color=dimgrey&right_color=indianred"  />
+</div>
+
+###
+
+<div>
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 
 
 <!--
