@@ -21,26 +21,36 @@
 
 ---
 
-### Languages & Frameworks
+### <div align="center">Languages & Frameworks</div>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nextjs,angular,astro,express,tailwind" />
 </p>
 
-### Tools & Platforms
+### <div align="center">Tools & Platforms</div>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,github,postgres,figma,jest,kubernetes,postman,vercel,playwright" />
 </p>
+
+### <div align="center">Productivity & Analytics</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
+</p>
+
+
 
 ---
 
 
-### Let's Connect!
 
 <p align="center">
   <a href="mailto:brayanss2018@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/brayan-steven-valdez-436ab4283/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -50,12 +60,9 @@
   </a>
 </p>
 
-<p align="center">
-  Made with ❤️ by Steven
-</p>
-
+<!--
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=stevenD18skz&show_icons=true&title_color=1c1c1c&icon_color=79ff97&text_color=1c1c1c&bg_color=ffffff" alt="Steven Github Stats">
-
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stevenD18skz/stevenD18skz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stevenD18skz/stevenD18skz/output/pacman-contribution-graph.svg">
@@ -64,10 +71,11 @@
 
 ###
 
+<!--
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=stevenD18skz&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
+-->
 
 
 
