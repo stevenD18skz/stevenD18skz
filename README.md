@@ -13,11 +13,10 @@
 
 ### About Me
 
-- I'm currently working on and developing my skills in **[mention 1-2 key technologies/areas you're focusing on right now, e.g., Next.js, Serverless, AI integration]**.
-- I specialize in building robust and dynamic web experiences, focusing on **[Front-end/Back-end/Database optimization/UI/UX]**.
-- Always learning and exploring new horizons in the world of web development. My current interests include **[mention 1-2 new tech areas you're curious about, e.g., Web3, Machine Learning in web apps, Rust for backend]**.
+- I'm currently working on and developing my skills in **Next.js, Figma, Power BI**.
+- I specialize in building robust and dynamic web experiences, focusing on **optimization/UI/UX**.
+- Always learning and exploring new horizons in the world of web development. My current interests include **Web 3d, Express para backend, Redes Neuronales**.
 - I'm open to collaborating on exciting projects that challenge me and allow me to learn and grow.
-- Ask me about **[mention a specific area you're good at or enjoy discussing, e.g., MERN stack, API design, performance optimization]**.
 
 ---
 
