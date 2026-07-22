@@ -21,12 +21,16 @@
 
 ---
 
-### Languages & Tools I Play With
+### Languages & Frameworks
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,mysql,docker,aws,git,github,vscode,figma,jest,storybook,webpack,babel,redux" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=graphql,bootstrap,tailwind,materialui,sass,vite,npm,yarn,eslint,prettier,linux" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,react,nextjs,angular,astro,express,tailwind" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,github,postgres,figma,jest,kubernetes,postman,vercel,playwright" />
 </p>
 
 ---
